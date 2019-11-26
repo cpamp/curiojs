@@ -3,4 +3,4 @@ import { Controller } from "./controller/controller.decorator"
 import { Curio } from "./curio"
 import { HttpMethod } from "./httpMethod"
 
-export { Route, Controller, Curio as WebApi, HttpMethod }
+export { Route, Controller, Curio, HttpMethod }

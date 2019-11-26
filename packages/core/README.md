@@ -35,6 +35,6 @@ app.listen(3000, () => {
     console.log("listening...")
 
     // Register the app. Controllers and routes will not work without this!
-    WebApi.start(app)
+    Curio.start(app)
 })
 ```
